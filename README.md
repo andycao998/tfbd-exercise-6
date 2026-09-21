@@ -1,5 +1,5 @@
 # RAG Assistant as LangGraph Agent
-
+Multi-turn conversation agent built on a LangGraph graph that relies on RAG to answer specific policy questions.
 ## Usage
 ### Run Graph:
 1. `python -m ticket_assistant.graph.run`
